@@ -30,3 +30,5 @@ In conclusion, Task 1 gave me hands-on experience in API integration and data vi
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/b22c2631-a133-4154-908f-686f4fe7e242)
+![Image](https://github.com/user-attachments/assets/96daa874-85ab-4fb8-b750-6981fdd48752)
